@@ -1,0 +1,9 @@
+ * Variables: Espacio reservado en la memoria para almacenar un valor aunque tambien puede estar vacio.
+ * Strings: Tipo de dato de cadenas de texto.
+ * Funciones (argumentos, `return`): Es un pedazo de código que realiza alguna acciones, 
+    puede recibir argumentos que no son mas que datos que se utilizaran dentro de la función, por su parte la 
+    palabra reservada return nos sirve para devolver un valor para usarlo fuera del contexto de la función.
+ * Declaraciones `if`: Nos permiten especificar cierta acción a realizar como el if que se ejecuta en caso de 
+    que cierta condicion sea True.
+ * Valores booleanos (`true`, `false`): Tipo de dato que solo puede estar en uno de los dos estados posibles 
+    (True or False)
